@@ -68,7 +68,7 @@ public class SampleModel : IMongoEntity
         public string Address { get; set; }
     }
 ```
-For Mongo CRUD operation you will follow my ```AspNetCore.MongoDB``` library git repository [Here](https://pages.github.com/nahidhasanswe/AspNetCore.MongoDB).
+For Mongo CRUD operation you will follow my ```AspNetCore.MongoDB``` library git repository [Here](https://github.com/nahidhasanswe/AspNetCore.MongoDB)
 
 #How to use MongoDB Identity
 
