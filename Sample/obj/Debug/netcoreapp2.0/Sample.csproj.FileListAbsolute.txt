@@ -1,0 +1,14 @@
+C:\Users\Nahid Hasan\Documents\AspNet Core\Library\AspNetCore.MongoDB.Identity\Sample\bin\Debug\netcoreapp2.0\Sample.deps.json
+C:\Users\Nahid Hasan\Documents\AspNet Core\Library\AspNetCore.MongoDB.Identity\Sample\bin\Debug\netcoreapp2.0\Sample.runtimeconfig.json
+C:\Users\Nahid Hasan\Documents\AspNet Core\Library\AspNetCore.MongoDB.Identity\Sample\bin\Debug\netcoreapp2.0\Sample.runtimeconfig.dev.json
+C:\Users\Nahid Hasan\Documents\AspNet Core\Library\AspNetCore.MongoDB.Identity\Sample\bin\Debug\netcoreapp2.0\Sample.dll
+C:\Users\Nahid Hasan\Documents\AspNet Core\Library\AspNetCore.MongoDB.Identity\Sample\bin\Debug\netcoreapp2.0\Sample.pdb
+C:\Users\Nahid Hasan\Documents\AspNet Core\Library\AspNetCore.MongoDB.Identity\Sample\bin\Debug\netcoreapp2.0\AspNetCore.MongoDB.Identity.dll
+C:\Users\Nahid Hasan\Documents\AspNet Core\Library\AspNetCore.MongoDB.Identity\Sample\bin\Debug\netcoreapp2.0\AspNetCore.MongoDB.Identity.pdb
+C:\Users\Nahid Hasan\Documents\AspNet Core\Library\AspNetCore.MongoDB.Identity\Sample\obj\Debug\netcoreapp2.0\Sample.csprojResolveAssemblyReference.cache
+C:\Users\Nahid Hasan\Documents\AspNet Core\Library\AspNetCore.MongoDB.Identity\Sample\obj\Debug\netcoreapp2.0\Sample.csproj.CoreCompileInputs.cache
+C:\Users\Nahid Hasan\Documents\AspNet Core\Library\AspNetCore.MongoDB.Identity\Sample\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Nahid Hasan\Documents\AspNet Core\Library\AspNetCore.MongoDB.Identity\Sample\obj\Debug\netcoreapp2.0\Sample.AssemblyInfoInputs.cache
+C:\Users\Nahid Hasan\Documents\AspNet Core\Library\AspNetCore.MongoDB.Identity\Sample\obj\Debug\netcoreapp2.0\Sample.AssemblyInfo.cs
+C:\Users\Nahid Hasan\Documents\AspNet Core\Library\AspNetCore.MongoDB.Identity\Sample\obj\Debug\netcoreapp2.0\Sample.dll
+C:\Users\Nahid Hasan\Documents\AspNet Core\Library\AspNetCore.MongoDB.Identity\Sample\obj\Debug\netcoreapp2.0\Sample.pdb
