@@ -70,7 +70,7 @@ public class SampleModel : IMongoEntity
 ```
 For Mongo CRUD operation you will follow my ```AspNetCore.MongoDB``` library git repository [Here](https://github.com/nahidhasanswe/AspNetCore.MongoDB)
 
-#How to use MongoDB Identity
+# How to use MongoDB Identity
 
 Now you have to Inject ```UserManager<ApplicationUser>``` and ```SignInManager<ApplicationUser>``` into your Controller and Use Identity as below :
 
